@@ -1,5 +1,5 @@
 WstanKochanieSliczniutkie()
 
-WypijKawe()
+WypijKawePyszn¹JakPorannaRosa()
 
 Jesli kawa==dobra to zjedzChleb()
