@@ -2,4 +2,4 @@ WstanKochanieSliczniutkie()
 
 WypijKawePyszn¹JakPorannaRosa()
 
-Jesli kawa==dobra to zjedzChleb()
+Jesli kawa==dobra to zjedzChleb() w przeciwnym wypadku idz na spacer wœród gwiazd
