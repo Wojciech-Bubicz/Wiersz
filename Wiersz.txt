@@ -2,4 +2,4 @@ WstanChamie()
 
 WypijKawePupo()
 
-Jesli kawa==dobra to zjedzChleb()
+Jesli kawa==sik to zjedzChleb()
