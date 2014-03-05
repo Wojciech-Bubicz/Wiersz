@@ -1,5 +1,5 @@
 WstanChamie()
 
-WypijKawe()
+WypijKawePupo()
 
 Jesli kawa==dobra to zjedzChleb()
