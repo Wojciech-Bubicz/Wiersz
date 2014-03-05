@@ -1,4 +1,4 @@
-Wstan()
+WstanChamie()
 
 WypijKawe()
 
